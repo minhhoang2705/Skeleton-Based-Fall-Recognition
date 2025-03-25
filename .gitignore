@@ -28,6 +28,9 @@ dist/
 # Editor directories
 .vscode/
 .idea/
+.cursor/rules
+.devcontainer/
+.github/
 
 # Project-specific exclusions
 data/
