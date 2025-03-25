@@ -1,0 +1,43 @@
+# Standard Python ignores
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Local development
+.env
+.env.local
+.env.development
+
+# Editor directories
+.vscode/
+.idea/
+
+# Project-specific exclusions
+data/
+processed_data/
+uploads/
+outputs/
+work_dirs/
+denseflow/build/
+mmaction2/checkpoints/
+*.pth
+*.mp4
+*.zip
+*.pkl
