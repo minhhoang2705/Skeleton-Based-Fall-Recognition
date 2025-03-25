@@ -36,8 +36,14 @@ uploads/
 outputs/
 work_dirs/
 denseflow/build/
-mmaction2/checkpoints/
+src/nturgb+d_skeletons/
 *.pth
 *.mp4
 *.zip
 *.pkl
+*.avi
+*.avi.gz
+*.avi.tar.gz
+*.avi.tar.gz.part
+*.avi.tar.gz.part.1
+*.avi.tar.gz.part.2
